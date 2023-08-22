@@ -7,12 +7,17 @@ This repository contains code and resources for performing user segmentation ana
 ## Table of Contents
 
 Introduction
+
 Installation
+
 Usage
+
 Methods
+
 Example
-Contributing
-License
+
+Contributions
+
 
 
 ## Introduction
@@ -25,10 +30,16 @@ This repository provides a Python-based approach to performing user segmentation
 The following methods are implemented in the notebook:
 
 Data Loading: Load user data from CSV or Excel files.
+
+
 Data Preprocessing: Handle missing values, clean the data, and perform necessary transformations.
+
 Feature Selection: Choose relevant features for segmentation.
+
 Scaling: Scale features if necessary for distance-based algorithms.
+
 Segmentation: Apply clustering algorithms such as K-Means to group users.
+
 Visualization: Visualize the results using scatter plots, heatmaps, or other relevant visualizations.
 
 
